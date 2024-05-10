@@ -28,8 +28,9 @@ For example, for a Sum Assured of Nu 200,000, a member/employee eligible for GIS
 https://www.ricb.bt/products/life-insurance/life/group-insurance-scheme-gis-gsli/
 
 9. Education allowance up to a max of Nu. 350,000 per child.
+https://www.bbs.bt/news/
 
-10. Income slab and its's tax rates
+11. Income slab and its's tax rates
     Up to Nu. 300,000                0%,
     Nu.300,001 to Nu. 400,000        10%,
     Nu. 400,001 to Nu. 650,000       15%,
