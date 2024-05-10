@@ -16,8 +16,8 @@ Civil service and government agencies
 3. A scheme was started in the ywar 2021 where a member is required to contribute a minimum of 5 percent of the basic pay and matching contribution by the employer, if any or 10 percent of the total income of a period if one is self-employed.
 
 4. Corporate Agencies contribute 22%, 26% and 30% based on their Pay Revision:
-   22%: 6% PF and 16% Pension 
-   26% : 10% PF and 16% Pension 
+   22%: 6% PF and 16% Pension,
+   26% : 10% PF and 16% Pension and, 
    30%: 14% PF and 16% Pension
 
 5. The Group Insurance Scheme (GIS), also known as the Group Saving Linked-Insurance (GSLI), is the most low-cost Group Life Insurance plan for the government, corporate, organisations, private firms, employees and armed forces.
@@ -26,11 +26,11 @@ For example, for a Sum Assured of Nu 200,000, a member/employee eligible for GIS
 6. Education allowance up to a max of Nu. 350,000 per child.
 
 7. Income slab and its's tax rates
-    Up to Nu. 300,000                0%
-    Nu.300,001 to Nu. 400,000        10%
-    Nu. 400,001 to Nu. 650,000       15%
-    Nu. 650,001 to Nu. 1,000,000     20%
-    Nu. 1,000,001 to Nu. 1,500,000   25%
+    Up to Nu. 300,000                0%,
+    Nu.300,001 to Nu. 400,000        10%,
+    Nu. 400,001 to Nu. 650,000       15%,
+    Nu. 650,001 to Nu. 1,000,000     20%,
+    Nu. 1,000,001 to Nu. 1,500,000   25% and,
 Surcharge at the rate of 10% shall be levied on (PIT)
 Personal Income Tax, if the annual Personal Income Tax
 is equal to or more than Nu. 1,000,000.
