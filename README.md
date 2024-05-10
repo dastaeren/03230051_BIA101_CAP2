@@ -20,10 +20,10 @@ Civil service and government agencies
    26% : 10% PF and 16% Pension 
    30%: 14% PF and 16% Pension
 
-5.The Group Insurance Scheme (GIS), also known as the Group Saving Linked-Insurance (GSLI), is the most low-cost Group Life Insurance plan for the government, corporate, organisations, private firms, employees and armed forces.
+5. The Group Insurance Scheme (GIS), also known as the Group Saving Linked-Insurance (GSLI), is the most low-cost Group Life Insurance plan for the government, corporate, organisations, private firms, employees and armed forces.
 For example, for a Sum Assured of Nu 200,000, a member/employee eligible for GIS/GSLI has to pay only Nu 200 per month. Similarly, an employee availing the scheme for a Sum Assured of Nu 400,000 will only have to pay Nu 400 per month.
 
-6.Education allowance up to a max of Nu. 350,000 per child.
+6. Education allowance up to a max of Nu. 350,000 per child.
 
 7. Income slab and its's tax rates
     Up to Nu. 300,000                0%
