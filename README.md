@@ -1,7 +1,13 @@
-# BIA101 CAP 2
-# PID(Personal income index) CALCULATOR APPLICATION
+# BIA101 CAP 2, Project Title: PID(Personal income index) CALCULATOR APPLICATION
 
 ## Submitted by Deki Yangzom, 03230051
+
+## Overview
+
+This project provides a comprehensive tool for calculating taxes and Group Insurance Scheme (GIS) payments for employees. It includes three main components:
+- Employee: Represents an individual employee with attributes such as salary, employment type, and organization type.
+- TaxCalculator: Calculates the taxable income, total deductions, and final tax for an employee based on various factors including the number of children and whether they are in school.
+- GISCalculator: Calculates the monthly payment for GIS based on the sum assured.
 
 
 ## ASSUMPTIONS
